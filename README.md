@@ -10,3 +10,10 @@ Mediawiki Tag Extension for import NAT rules from Mikrotik.
  
 ## How to use
 On Wiki article page in edit mode add `<mikrotik ip="192.168.88.1" login="admin" password="tooooooo_long_pwd"/>` (three attributes REQUIRED!). Save changes.
+
+## ToDo
+Features planned:
+ - [] FILTER table support
+ - [] Support fields\columns selection (default\*(all used in rule)\specified)
+ - [] Russian symbols compatibility
+ 
