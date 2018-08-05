@@ -13,7 +13,7 @@ On Wiki article page in edit mode add `<mikrotik ip="192.168.88.1" login="admin"
 
 ## ToDo
 **Features planned:**
- - [] FILTER table support
- - [] Support fields\columns selection (default\*(all used in rule)\specified)
- - [] Russian symbols compatibility
+ - [ ] FILTER table support
+ - [ ] Support fields\columns selection (default\*(all used in rule)\specified)
+ - [ ] Russian symbols compatibility
  
