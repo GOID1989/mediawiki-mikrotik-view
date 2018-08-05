@@ -1,7 +1,7 @@
 # mediawiki-mikrotik-view
 
 Mediawiki Tag Extension for import NAT rules from Mikrotik.
-(https://github.com/GOID1989/mediawiki-mikrotik-view/blob/master/example.PNG)
+![alt_text](https://github.com/GOID1989/mediawiki-mikrotik-view/blob/master/example.PNG)
 
 ## Prerequisites
  - Enable Mikrotik API Services (IP->Services) and allow access to ports 8728-8729
