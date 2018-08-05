@@ -1,11 +1,11 @@
 # mediawiki-mikrotik-view
 
 Mediawiki Tag Extension for import NAT rules from Mikrotik.
+(https://github.com/GOID1989/mediawiki-mikrotik-view/blob/master/example.PNG)
 
 ## Prerequisites
- - PHP API for Mikrotik API https://github.com/BenMenking/routeros-api
  - Enable Mikrotik API Services (IP->Services) and allow access to ports 8728-8729
- - Put extension php-file to "extensions\mikrotikView" folder of Mediawiki
+ - Put extension php-file and [PHP API](https://github.com/BenMenking/routeros-api) to "extensions\mikrotikView" folder of Mediawiki
  - Add line `require_once( "$IP/extensions/mikrotikView/mikrotikView.php" );` into MW's LocalSettings.php
  
 ## How to use
